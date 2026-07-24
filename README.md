@@ -78,37 +78,21 @@ Stay tuned!
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards-lac.vercel.app/api/cards/profile-details?username=VIRAJJADHAV0025&theme=github_dark"
-    alt="Profile Details"
-    width="98.5%"
+    width="49%"
+    src="https://github-readme-stats-lake-six-82.vercel.app/api?username=VIRAJJADHAV0025&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&border_radius=12&rank_icon=github"
+    alt="GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats-lake-six-82.vercel.app/api/top-langs/?username=VIRAJJADHAV0025&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8"
+    alt="Top Languages"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards-lac.vercel.app/api/cards/repos-per-language?username=VIRAJJADHAV0025&theme=github_dark"
-    width="49%"
-    alt="Repos per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards-lac.vercel.app/api/cards/most-commit-language?username=VIRAJJADHAV0025&theme=github_dark"
-    width="49%"
-    alt="Most Commit Language"
-  />
 </p>
-
-<p align="center">
   <img
-    src="https://github-profile-summary-cards-lac.vercel.app/api/cards/stats?username=VIRAJJADHAV0025&theme=github_dark"
-    width="49%"
-    alt="Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards-lac.vercel.app/api/cards/productive-time?username=VIRAJJADHAV0025&theme=github_dark&utcOffset=5.5"
-    width="49%"
-    alt="Productive Time (UTC +5:30)"
-  />
-</p>
+  src="https://github-readme-stats-lake-six-82.vercel.app/api/pin/?username=VIRAJJADHAV0025&repo=ADSA&theme=github_dark&hide_border=true&border_radius=12"
+  alt="Repository Card"
+/>
 
 ---
 
