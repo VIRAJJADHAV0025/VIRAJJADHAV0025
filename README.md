@@ -100,7 +100,7 @@ Stay tuned!
 
 <p align="center">
   <img
-    width="1000"
+    width="10000"
 src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2500&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=%E2%AD%90+Thanks+for+Visiting!;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%92%BB;Keep+Growing+%F0%9F%9A%80;See+You+Again!+%F0%9F%91%8B" />
 </p>
 
