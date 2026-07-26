@@ -89,10 +89,10 @@ Stay tuned!
   />
 </p>
 </p>
-  <img
+  <!-- <img
   src="https://github-readme-stats-lake-six-82.vercel.app/api/pin/?username=VIRAJJADHAV0025&repo=ADSA&theme=github_dark&hide_border=true&border_radius=12"
   alt="Repository Card"
-/>
+/> -->
 
 ---
 
