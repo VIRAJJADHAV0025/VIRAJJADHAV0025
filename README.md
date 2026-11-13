@@ -77,11 +77,11 @@ Stay tuned!
 ## 📊 GitHub Summary
 
 <p align="center">
-  <img
+  <!-- <img
     width="49%"
     src="https://github-readme-stats-lake-six-82.vercel.app/api?username=VIRAJJADHAV0025&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&border_radius=12&rank_icon=github"
     alt="GitHub Stats"
-  />
+  /> -->
   <img
     width="49%"
     src="https://github-readme-stats-lake-six-82.vercel.app/api/top-langs/?username=VIRAJJADHAV0025&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8"
